@@ -1,0 +1,30 @@
+{
+  "name": "TapSelect",
+  "short_name": "TapSelect",
+  "description": "Erstelle einfach Teams, Reihenfolgen oder treffe eine zufällige Einzelauswahl, indem du mit mehreren Fingern das Display berührst.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#7AC74F",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-monochrome.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "monochrome"
+    }
+  ]
+}
